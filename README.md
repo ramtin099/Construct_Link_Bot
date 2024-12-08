@@ -1,7 +1,3 @@
-مطمئناً! در ادامه یک فایل `README.md` مشابه با الگوی شما برای پروژه‌ی ConstructLinkBot نوشته‌ام:
-
----
-
 # ConstructLinkBot
 
 ## Project Overview
